@@ -1,11 +1,22 @@
-LTspice 24.1.9 for Windows
-Circuit: C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\DocPlagueCir.net
-Start Time: Fri Jul 31 15:58:58 2026
+LTspice 24.0.12 for Windows
+Circuit: * C:\Desktop\SFU School Work\ENSC 425\NTSCPrject\DocPlagueCir.asc
+Start Time: Sat Aug  1 00:10:36 2026
 solver = Normal
-Maximum thread count: 22
+Maximum thread count: 32
 tnom = 27
 temp = 27
-method = trap
+method = modified trap
+v1: Removing PWL point (1.076e-05,0.053571)
+v1: Removing PWL point (7.426e-05,0.053571)
+v1: Removing PWL point (0.00013776,0.053571)
+v1: Removing PWL point (0.00020126,0.053571)
+WARNING: Node HDR is floating.
+WARNING: Node VDR is floating.
+
+WARNING: Less than two connections to node vee12.  This node is used by v5.
+WARNING: Less than two connections to node vee15.  This node is used by v7.
+WARNING: Less than two connections to node hdr.  This node is used by c7.
+WARNING: Less than two connections to node vdr.  This node is used by c11.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
 Gmin = 10
@@ -26,12 +37,5 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.793 seconds.
-
-Files loaded:
-C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\DocPlagueCir.net
-C:\Users\Lex Leung\AppData\Local\LTspice\lib\cmp\standard.dio
-C:\Users\Lex Leung\AppData\Local\LTspice\lib\cmp\standard.bjt
-C:\Users\Lex Leung\AppData\Local\LTspice\lib\sub\NE555.sub
-C:\Users\Lex Leung\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+Total elapsed time: 10.644 seconds.
 
