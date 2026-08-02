@@ -1,0 +1,43 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\firstCircuit.net
+Start Time: Sun Aug  2 16:07:02 2026
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Gmin = 1000
+Gmin = 107.374
+Gmin = 11.5292
+Gmin = 1.23794
+Gmin = 0.132923
+Gmin = 0.0142725
+Gmin = 0.0015325
+Gmin = 0.00016455
+Gmin = 1.76685e-05
+Gmin = 1.89714e-06
+Gmin = 2.03704e-07
+Gmin = 2.18725e-08
+Gmin = 2.34854e-09
+Gmin = 2.52173e-10
+Gmin = 2.70769e-11
+Gmin = 2.90735e-12
+Gmin = 3.12175e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.710 seconds.
+
+Files loaded:
+C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\firstCircuit.net
+C:\Users\Lex Leung\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\Lex Leung\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\Lex Leung\AppData\Local\LTspice\lib\sub\AD8065.sub
+C:\Users\Lex Leung\AppData\Local\LTspice\lib\sub\LT1363.sub
+C:\Users\Lex Leung\AppData\Local\LTspice\lib\sub\NE555.sub
+C:\Users\Lex Leung\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+
