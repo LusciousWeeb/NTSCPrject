@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
-Circuit: C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\secondCircuit.net
-Start Time: Sun Aug  2 23:25:07 2026
+Circuit: C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\thirdCircuit.net
+Start Time: Mon Aug  3 00:37:49 2026
 solver = Normal
 Maximum thread count: 22
 tnom = 27
@@ -26,12 +26,13 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.603 seconds.
+Total elapsed time: 0.684 seconds.
 
 Files loaded:
-C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\secondCircuit.net
+C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\thirdCircuit.net
 C:\Users\Lex Leung\AppData\Local\LTspice\lib\cmp\standard.dio
 C:\Users\Lex Leung\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\LM311.sub
 C:\Users\Lex Leung\AppData\Local\LTspice\lib\sub\NE555.sub
 C:\Users\Lex Leung\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
 
