@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\thirdCircuit.net
-Start Time: Mon Aug  3 00:37:49 2026
+Start Time: Mon Aug  3 02:41:11 2026
 solver = Normal
 Maximum thread count: 22
 tnom = 27
@@ -16,17 +16,55 @@ Gmin = 0.00132923
 Gmin = 0.000142725
 Gmin = 1.5325e-05
 Gmin = 1.6455e-06
-Gmin = 1.76685e-07
-Gmin = 1.89714e-08
-Gmin = 2.03704e-09
-Gmin = 2.18725e-10
-Gmin = 2.34854e-11
-Gmin = 2.52173e-12
-Gmin = 2.70769e-13
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 5.39199e-07
+vernier = 0.03125
+vernier = 0.0416667
+Gmin = 4.97563e-07
+vernier = 0.0555555
+vernier = 0.0277778
+Gmin = 4.57994e-07
+vernier = 0.037037
+vernier = 0.0493827
+Gmin = 4.17037e-07
+vernier = 0.0658435
+Gmin = 3.60011e-07
+vernier = 0.0877914
+vernier = 0.117055
+Gmin = 2.81602e-07
+vernier = 0.156073
+vernier = 0.208098
+Gmin = 1.90894e-07
+vernier = 0.277464
+vernier = 0.138732
+vernier = 0.0693659
+Gmin = 1.48009e-07
+vernier = 0.0924879
+vernier = 0.123317
+Gmin = 1.17332e-07
+vernier = 0.164423
+Gmin = 8.1602e-08
+vernier = 0.21923
+vernier = 0.292307
+Gmin = 4.46825e-08
+vernier = 0.389743
+vernier = 0.519657
+Gmin = 1.73985e-08
+vernier = 0.692876
+Gmin = 4.09312e-09
+vernier = 0.923834
+vernier = 1
+Gmin = 4.81897e-10
+Gmin = 5.17433e-11
+Gmin = 5.55589e-12
+Gmin = 5.96559e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.684 seconds.
+Total elapsed time: 1.232 seconds.
 
 Files loaded:
 C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\thirdCircuit.net
