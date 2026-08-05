@@ -1,0 +1,65 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\seventhCircuit(Sync and Ramp Semi finished).net
+Start Time: Tue Aug  4 22:59:37 2026
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03122
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.01823
+vernier = 0.00520833
+vernier = 0.00260417
+Gmin = 1.01162
+vernier = 0.00130208
+vernier = 0.00173611
+Gmin = 1.00866
+vernier = 0.000868055
+vernier = 0.00115741
+vernier = 0.000578703
+Gmin = 1.00757
+vernier = 0.000771604
+vernier = 0.000578703
+Gmin = 1.00621
+vernier = 0.000771604
+vernier = 0.000578703
+vernier = 0.000434027
+Gmin = 1.00537
+vernier = 0.000578703
+vernier = 0.000434027
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 88.6364%
+Source Step = 96.2121%
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 3.092 seconds.
+
+Files loaded:
+C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\seventhCircuit(Sync and Ramp Semi finished).net
+C:\Users\Lex Leung\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\Lex Leung\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\LM311.sub
+C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\LF356.mod
+C:\Users\Lex Leung\AppData\Local\LTspice\lib\sub\NE555.sub
+C:\Users\Lex Leung\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+
