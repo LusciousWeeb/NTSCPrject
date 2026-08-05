@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\sixthCircuit(PostMidnight1).net
-Start Time: Tue Aug  4 18:06:25 2026
+Start Time: Tue Aug  4 20:08:46 2026
 solver = Normal
 Maximum thread count: 22
 tnom = 27
@@ -10,20 +10,17 @@ Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to sk
 Starting Gmin stepping
 Gmin = 10
 Gmin = 1.07374
-Gmin = 0.115292
-Gmin = 0.0123794
-Gmin = 0.00132923
-Gmin = 0.000142725
 vernier = 0.5
 vernier = 0.25
 vernier = 0.125
 vernier = 0.0625
+Gmin = 0.994119
 vernier = 0.03125
-Gmin = 5.84601e-05
 vernier = 0.015625
 vernier = 0.0078125
 vernier = 0.00390625
 vernier = 0.00195312
+Gmin = 1.00523
 vernier = 0.000976562
 vernier = 0.000488281
 Gmin = 0
@@ -36,7 +33,7 @@ Source Step = 63.6364%
 Source Step = 93.9394%
 Source stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.855 seconds.
+Total elapsed time: 1.244 seconds.
 
 Files loaded:
 C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\sixthCircuit(PostMidnight1).net
