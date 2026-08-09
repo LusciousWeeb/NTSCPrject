@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\postFailurebutWOrse.net
-Start Time: Sat Aug  8 14:48:26 2026
+Start Time: Sat Aug  8 18:38:00 2026
 Options: noopiter
 solver = Normal
 Maximum thread count: 22
@@ -8,7 +8,7 @@ tnom = 27
 temp = 27
 method = trap
 noOpIter = true
-WARNING: Node n019 is floating.
+WARNING: Node n018 is floating.
 
 Direct Newton iteration for .op point skipped.
 Starting Gmin stepping
@@ -18,28 +18,19 @@ Gmin = 0.115292
 Gmin = 0.0123794
 Gmin = 0.00132923
 Gmin = 0.000142725
-vernier = 0.5
-vernier = 0.25
-Gmin = 3.52136e-05
-vernier = 0.333333
-Gmin = 1.70931e-05
-vernier = 0.444444
-vernier = 0.592592
-Gmin = 5.2274e-06
-vernier = 0.790123
-vernier = 1
-Gmin = 8.60498e-07
-Gmin = 9.23953e-08
-Gmin = 9.92087e-09
-Gmin = 1.06525e-09
-Gmin = 1.1438e-10
-Gmin = 1.22814e-11
-Gmin = 1.31871e-12
-Gmin = 1.41595e-13
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 1.625 seconds.
+Total elapsed time: 1.511 seconds.
 
 Files loaded:
 C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\postFailurebutWOrse.net
