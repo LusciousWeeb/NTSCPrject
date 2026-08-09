@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\postFailurebutLum.net
-Start Time: Sat Aug  8 19:27:15 2026
+Start Time: Sat Aug  8 20:23:32 2026
 Options: noopiter
 solver = Normal
 Maximum thread count: 22
@@ -9,6 +9,7 @@ temp = 27
 method = trap
 noOpIter = true
 WARNING: Node n016 is floating.
+WARNING: Node lum is floating.
 
 Direct Newton iteration for .op point skipped.
 Starting Gmin stepping
@@ -39,7 +40,7 @@ Gmin = 1.41595e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.538 seconds.
+Total elapsed time: 1.313 seconds.
 
 Files loaded:
 C:\Users\Lex Leung\OneDrive\Desktop\SFU Work\ENSC 425\NTSCPrject\postFailurebutLum.net
